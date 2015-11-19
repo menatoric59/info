@@ -11,7 +11,7 @@ $elementos =rand(5,20);
 
 llenaArreglo($elementos);
 
-switch (variable) {
+switch ($tipoOrdenamiento) {
 	case 'burbuja':
 		ordenaBurbuja();
 		break;
