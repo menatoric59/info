@@ -19,7 +19,7 @@
 	<a href="{{url('/')}}">
 	<div class="jumbotron">
 		<h1 class="text-center">Prácticas Informática II Plan 2006</h1>
-		<h2 class="text-center">2016-1</h2>
+		<h2 class="text-center">2016-1  </h2>
 		<h2 class="text-center">(Programación Plan 2012)</h2>
 		
 	</div>
